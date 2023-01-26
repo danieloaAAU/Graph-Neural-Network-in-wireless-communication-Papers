@@ -3,6 +3,5 @@ This repository contains the list of papers that considered the application of G
 
 # Resource Allocation
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Combinatorial-Optimization-ML-Papers/blob/master/c(1).pdf" style="text-decoration:none;">Predicting Propositional
-Satisfiability via End-to-End Learning</a></li>
+ <li><a target="_blank" href="https://github.com/danieloaAAU/Power_Control_GNN" style="text-decoration:none;"> Power Control for 6G Industrial Wireless Subnetworks: A Graph Neural Network Approach </a></li>
   
