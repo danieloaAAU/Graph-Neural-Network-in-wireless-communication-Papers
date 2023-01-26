@@ -16,3 +16,8 @@ Resource Allocation in Wireless IoT Networks </a></li>
 <li><a target="_blank" href="https://ieeexplore.ieee.org/document/9322537" style="text-decoration:none;"> Resource Allocation based on Graph Neural
 Networks in Vehicular Communications </a></li>
 
+# Receiver Design
+
+<li><a target="_blank" href="https://ieeexplore.ieee.org/document/9566598" style="text-decoration:none;"> Deep Neural Network Based Channel Estimation for Massive MIMO-OFDM Systems With Imperfect Channel State Information </a></li>
+
+<li><a target="_blank" href="https://ieeexplore.ieee.org/document/9482384" style="text-decoration:none;"> Belief Propagation based Deep Neural Networks for MIMO Detection: DNN-BP </a></li>
