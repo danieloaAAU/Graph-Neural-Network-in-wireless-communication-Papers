@@ -16,6 +16,10 @@ Resource Allocation in Wireless IoT Networks </a></li>
 <li><a target="_blank" href="https://ieeexplore.ieee.org/document/9322537" style="text-decoration:none;"> Resource Allocation based on Graph Neural
 Networks in Vehicular Communications </a></li>
 
+<li><a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/9685457" style="text-decoration:none;"> Scalable Power Control/Beamforming in Heterogeneous Wireless Networks with Graph Neural Networks </a></li>
+
+<li><a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/9414098" style="text-decoration:none;"> Distributed Scheduling Using Graph Neural Networks </a></li>
+
 # Receiver Design
 
 <li><a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/10011630" style="text-decoration:none;"> Overhead-Free Blockage Detection and Precoding Through Physics-Based Graph Neural Networks: LIDAR Data Meets Ray Tracing </a></li>
