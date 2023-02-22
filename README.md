@@ -20,7 +20,11 @@ Networks in Vehicular Communications </a></li>
 
 <li><a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/9414098" style="text-decoration:none;"> Distributed Scheduling Using Graph Neural Networks </a></li>
 
+<li><a target="_blank" href="https://ieeexplore.ieee.org/document/10014842" style="text-decoration:none;"> Learning Graph Convolutional Neural Networks to Predict Radio Environment Maps </a></li>
+
 # Receiver Design
+
+<li><a target="_blank" href="https://ieeexplore.ieee.org/document/10012954" style="text-decoration:none;"> Autoencoding Graph Neural Networks for Scalable Transceiver Design </a></li>
 
 <li><a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/10011630" style="text-decoration:none;"> Overhead-Free Blockage Detection and Precoding Through Physics-Based Graph Neural Networks: LIDAR Data Meets Ray Tracing </a></li>
 
