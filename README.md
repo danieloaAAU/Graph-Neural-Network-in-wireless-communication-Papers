@@ -1,4 +1,4 @@
-# Graph Neural Network in wireless communication Papers
+# Graph Neural Network in Wireless Communication Papers
 This repository contains the list of papers that considered the application of Graph Neural Network in Wireless Communication
 
 # Resource Allocation
@@ -31,3 +31,12 @@ Networks in Vehicular Communications </a></li>
 <li><a target="_blank" href="https://ieeexplore.ieee.org/document/9566598" style="text-decoration:none;"> Deep Neural Network Based Channel Estimation for Massive MIMO-OFDM Systems With Imperfect Channel State Information </a></li>
 
 <li><a target="_blank" href="https://ieeexplore.ieee.org/document/9482384" style="text-decoration:none;"> Belief Propagation based Deep Neural Networks for MIMO Detection: DNN-BP </a></li>
+
+# Review Papers
+
+<li><a target="_blank" href="https://ieeexplore.ieee.org/document/9618652" style="text-decoration:none;"> An Overview on the Application of Graph Neural Networks in Wireless Networks </a></li>
+
+<li><a target="_blank" href="https://ieeexplore.ieee.org/document/9944643" style="text-decoration:none;"> Graph Neural Networks for Wireless Communications: From Theory to Practice </a></li>
+
+
+
