@@ -39,10 +39,6 @@ Networks in Vehicular Communications </a></li>
 
 <li><a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/10011630" style="text-decoration:none;"> Overhead-Free Blockage Detection and Precoding Through Physics-Based Graph Neural Networks: LIDAR Data Meets Ray Tracing </a></li>
 
-<li><a target="_blank" href="https://ieeexplore.ieee.org/document/9566598" style="text-decoration:none;"> Deep Neural Network Based Channel Estimation for Massive MIMO-OFDM Systems With Imperfect Channel State Information </a></li>
-
-<li><a target="_blank" href="https://ieeexplore.ieee.org/document/9482384" style="text-decoration:none;"> Belief Propagation based Deep Neural Networks for MIMO Detection: DNN-BP </a></li>
-
 <li><a target="_blank" href="https://arxiv.org/abs/2207.14742" style="text-decoration:none;"> Graph Neural Networks for Channel Decoding </a></li>
 
 # Review Papers
