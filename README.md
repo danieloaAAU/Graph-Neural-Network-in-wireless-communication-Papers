@@ -24,6 +24,10 @@ Networks in Vehicular Communications </a></li>
 
 <li><a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/10032291" style="text-decoration:none;"> A Graph Neural Network Learning Approach to Optimize RIS-Assisted Federated Learning </a></li>
 
+<li><a target="_blank" href="https://www.nature.com/articles/s41598-022-25800-3" style="text-decoration:none;"> Graph neural network-based cell switching for energy optimization in ultra-dense heterogeneous networks </a></li>
+
+<li><a target="_blank" href="https://arxiv.org/abs/2104.09027" style="text-decoration:none;"> Decentralized Inference with Graph Neural Networks in Wireless Communication Systems </a></li>
+
 # Receiver Design
 
 <li><a target="_blank" href="https://ieeexplore.ieee.org/document/10012954" style="text-decoration:none;"> Autoencoding Graph Neural Networks for Scalable Transceiver Design </a></li>
@@ -41,6 +45,8 @@ Networks in Vehicular Communications </a></li>
 <li><a target="_blank" href="https://ieeexplore.ieee.org/document/9618652" style="text-decoration:none;"> An Overview on the Application of Graph Neural Networks in Wireless Networks </a></li>
 
 <li><a target="_blank" href="https://ieeexplore.ieee.org/document/9944643" style="text-decoration:none;"> Graph Neural Networks for Wireless Communications: From Theory to Practice </a></li>
+
+<li><a target="_blank" href="https://arxiv.org/pdf/2203.15935.pdf" style="text-decoration:none;"> Graph Neural Networks in IoT: A Survey </a></li>
 
 
 
