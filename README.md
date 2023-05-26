@@ -28,6 +28,8 @@ Networks in Vehicular Communications </a></li>
 
 <li><a target="_blank" href="https://arxiv.org/abs/2104.09027" style="text-decoration:none;"> Decentralized Inference with Graph Neural Networks in Wireless Communication Systems </a></li>
 
+<li><a target="_blank" href="https://www.mdpi.com/2079-9292/11/20/3371" style="text-decoration:none;"> Graph Neural Networks for Intelligent Modelling in Network Management and Orchestration: A Survey on Communications </a></li>
+
 # Receiver Design
 
 <li><a target="_blank" href="https://ieeexplore.ieee.org/document/10012954" style="text-decoration:none;"> Autoencoding Graph Neural Networks for Scalable Transceiver Design </a></li>
