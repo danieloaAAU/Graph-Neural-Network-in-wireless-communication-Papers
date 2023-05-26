@@ -1,6 +1,11 @@
 # Graph Neural Network in Wireless Communication Papers
 This repository contains the list of papers that considered the application of Graph Neural Network in Wireless Communication
 
+<p align="center">
+  <img src="GNN4WC.png" width="350" title="GNN for wireless communication">
+  <img src="GNN4WC.png" width="350" alt="GNN for wireless communication">
+</p>
+
 # Resource Allocation and Optimization
 
 <li><a target="_blank" href="https://github.com/danieloaAAU/Power_Control_GNN" style="text-decoration:none;"> Power Control for 6G Industrial Wireless Subnetworks: A Graph Neural Network Approach </a></li>
