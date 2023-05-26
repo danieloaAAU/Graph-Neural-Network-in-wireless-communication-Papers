@@ -1,7 +1,7 @@
 # Graph Neural Network in Wireless Communication Papers
 This repository contains the list of papers that considered the application of Graph Neural Network in Wireless Communication
 
-# Resource Allocation
+# Resource Allocation and Optimization
 
 <li><a target="_blank" href="https://github.com/danieloaAAU/Power_Control_GNN" style="text-decoration:none;"> Power Control for 6G Industrial Wireless Subnetworks: A Graph Neural Network Approach </a></li>
   
@@ -21,6 +21,8 @@ Networks in Vehicular Communications </a></li>
 <li><a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/9414098" style="text-decoration:none;"> Distributed Scheduling Using Graph Neural Networks </a></li>
 
 <li><a target="_blank" href="https://ieeexplore.ieee.org/document/10014842" style="text-decoration:none;"> Learning Graph Convolutional Neural Networks to Predict Radio Environment Maps </a></li>
+
+<li><a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/10032291" style="text-decoration:none;"> A Graph Neural Network Learning Approach to Optimize RIS-Assisted Federated Learning </a></li>
 
 # Receiver Design
 
