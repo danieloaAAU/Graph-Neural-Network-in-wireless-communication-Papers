@@ -2,8 +2,7 @@
 This repository contains the list of papers that considered the application of Graph Neural Network in Wireless Communication
 
 <p align="center">
-  <img src="GNN4WC.png" width="350" title="GNN for wireless communication">
-  <img src="GNN4WC.png" width="350" alt="GNN for wireless communication">
+  <img src="GNN4WC.png" width="500" alt="GNN for wireless communication">
 </p>
 
 # Resource Allocation and Optimization
